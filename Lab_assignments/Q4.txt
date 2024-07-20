@@ -1,4 +1,5 @@
-Question 4. (Exercise on the group by and order by clauses) Create Sales table with the following fields (Sales
+Question 4. 
+(Exercise on the group by and order by clauses) Create Sales table with the following fields (Sales
 No, Salesname, Branch, Salesamount, DOB)
 1. Create a Sales Table with the following fields
 (Sales_No,Sales_Name,Branch,Sales_Amount,DOB)
