@@ -1,4 +1,5 @@
-Question 2. (Exercise: update the records in the table) Create Client_master with the following fields (ClientNO,
+Question 2.
+(Exercise: update the records in the table) Create Client_master with the following fields (ClientNO,
 Name, Address, City, State, bal_due)
 1. create a client master table with attributes
 2. insert five records into the Client_Master
